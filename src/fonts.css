@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Lexend+Giga:wght@200;300;400;500;600;700;800;900&display=swap');
+
+.font-audiowide { font-family: 'Audiowide', ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; }
+.font-lexend { font-family: 'Lexend Giga', ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; }
+
+html { scroll-behavior: smooth; }
